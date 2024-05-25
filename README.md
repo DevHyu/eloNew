@@ -1,2 +1,0 @@
-# eloNew
- Elo Project
